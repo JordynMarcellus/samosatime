@@ -2,13 +2,14 @@ Wishful thinking
 
 * Rating (thumbs up/thumbs down, or star rating)
 ** Display only over a certain threshold, or grey out below
-
-* Submission form
+*** Use Yelp star ratings instead??
 
 * More cities
-
 
 
 Actual todo
 
 * Group by region or metro area (i.e. GTA vs Toronto/Scarb/Etobicoke/Saug)
+* Email signup for updates
+* Submission form to add places
+* Google Maps
