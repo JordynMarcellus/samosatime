@@ -9,7 +9,6 @@
 			"name": "Sultan of Samosas",
 			"address": "251 Bartley Dr",
 			"city": "North York"
-
 		},
 		{
 			"name": "Sultan of Samosas",
@@ -75,6 +74,26 @@
 		{
 			"name": "Liberty Shawarma",
 			"address": "114 Atlantic Ave",
+			"city": "Toronto"
+		},
+		{
+			"name": "Gandhi Roti",
+			"address": "554 Queen St W",
+			"city": "Toronto"
+		},
+		{
+			"name": "Roti Time",
+			"address": "2542 St Clair Ave W",
+			"city": "Toronto"
+		},
+		{
+			"name": "Makkah",
+			"address": "1020 Danforth Ave",
+			"city": "Toronto"
+		},
+		{
+			"name": "Makkah",
+			"address": "2980 Danforth Ave",
 			"city": "Toronto"
 		}
 	]
