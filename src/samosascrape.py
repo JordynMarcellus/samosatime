@@ -15,3 +15,8 @@ for listing in soup.findAll('div', attrs={'class': 'biz-listing-large'}):
 
 # print data
 json.dump(data, open("data/samosadump.json", 'w'), indent=1)
+
+# todo: 
+# - exclude first search result (advertisement)
+# - handle paginated results
+# - add other data (phone? $? etc)
