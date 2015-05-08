@@ -2,7 +2,6 @@
 import json
 import urllib2
 import requests
-import string
 from bs4 import BeautifulSoup
 
 data = []
