@@ -1,46 +1,2142 @@
 [
  {
-  "name": "Bindia Indian Bistro", 
-  "address": "16 Market Street"
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
  }, 
  {
-  "name": "Sultan of ", 
+  "phone": "(416) 933-9330", 
+  "name": "Sultan of Samosas", 
   "address": "1 Oak St"
  }, 
  {
-  "name": "Sultan of ", 
+  "phone": "(416) 285-6565", 
+  "name": "Sultan of Samosas", 
   "address": "1677 O'Connor Dr"
  }, 
  {
+  "phone": "(416) 504-8155", 
   "name": "Gandhi Cuisine", 
   "address": "554 Queen Street  W"
  }, 
  {
+  "phone": "(416) 516-7701", 
   "name": "South Indian Dosa Mahal Restaurant", 
   "address": "1262 Bloor St W"
  }, 
  {
+  "phone": "(416) 588-4634", 
   "name": "Mother India", 
   "address": "1456 Queen Street W"
  }, 
  {
+  "phone": "(416) 205-9836", 
   "name": "Little India Restaurant", 
   "address": "255 Queen Street W"
  }, 
  {
+  "phone": "(416) 405-8189", 
   "name": "Udupi Palace", 
   "address": "1460 Gerrard Street E"
  }, 
  {
+  "phone": "(416) 486-6644", 
   "name": "Banjara Indian Cuisine", 
   "address": "164 Eglinton Avenue E"
  }, 
  {
+  "phone": "(416) 963-9360", 
+  "name": "Banjara Indian Cuisine", 
+  "address": "796 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 599-9994", 
+  "name": "Matagali Restaurant", 
+  "address": "69 Elm Street"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 461-3111", 
   "name": "Motimahal", 
   "address": "1422 Gerrard St E"
  }, 
  {
-  "name": "Matagali Restaurant", 
-  "address": "69 Elm Street"
+  "phone": "(416) 929-2099", 
+  "name": "Rashnaa Restaurant", 
+  "address": "307 Wellesley Street E"
+ }, 
+ {
+  "phone": "(647) 951-2725", 
+  "name": "Bindia Indian Bistro", 
+  "address": "16 Market Street"
+ }, 
+ {
+  "phone": "(416) 203-0222", 
+  "name": "Saffron Spice Kitchen", 
+  "address": "459 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 322-5678", 
+  "name": "Jaipur Grille", 
+  "address": "2066 Yonge Street"
+ }, 
+ {
+  "phone": "(416) 599-4678", 
+  "name": "259 Host", 
+  "address": "259 Wellington Street"
+ }, 
+ {
+  "phone": "(416) 740-6622", 
+  "name": "309 Dhaba Indian Excellence", 
+  "address": "309 King Street W"
+ }, 
+ {
+  "phone": "(416) 964-7583", 
+  "name": "Butter Chicken Factory", 
+  "address": "556 Parliament Street"
+ }, 
+ {
+  "phone": "(416) 961-8349", 
+  "name": "Utsav", 
+  "address": "69 Yorkville Ave"
+ }, 
+ {
+  "phone": "(416) 962-4678", 
+  "name": "The Host", 
+  "address": "14 Prince Arthur Avenue"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 406-1668", 
+  "name": "Lahore Tikka House", 
+  "address": "1365 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 971-7242", 
+  "name": "Aroma Fine Indian Cuisine", 
+  "address": "287 King St W"
+ }, 
+ {
+  "phone": "(416) 406-2056", 
+  "name": "Makkah Restaurant", 
+  "address": "1020 Danforth Ave"
+ }, 
+ {
+  "phone": "(416) 645-0286", 
+  "name": "Trimurti Indian Cuisine", 
+  "address": "265 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 968-9366", 
+  "name": "Roti Cuisine of India", 
+  "address": "308 Dupont Street"
+ }, 
+ {
+  "phone": "(416) 465-2125", 
+  "name": "Sher-E-Punjab Restaurant", 
+  "address": "351 Danforth Avenue"
+ }, 
+ {
+  "phone": "(416) 769-5460", 
+  "name": "Curry Twist Restaurant", 
+  "address": "3034 Dundas Street W"
+ }, 
+ {
+  "phone": "", 
+  "name": "Magic Oven", 
+  "address": "707 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 322-3270", 
+  "name": "Amaya Express", 
+  "address": "220 Yonge St"
+ }, 
+ {
+  "phone": "(416) 961-9797", 
+  "name": "Veda Healthy IndianTakeout", 
+  "address": "10 King's College Rd"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(647) 748-0220", 
+  "name": "Marigold Indian Bistro", 
+  "address": "552 Mount Pleasant Road"
+ }, 
+ {
+  "phone": "(416) 405-8080", 
+  "name": "Bombay Chowpatty", 
+  "address": "1386 Gerrard St E"
+ }, 
+ {
+  "phone": "(416) 961-9797", 
+  "name": "Veda Healthy Indian Takeout", 
+  "address": "874 Yonge St"
+ }, 
+ {
+  "phone": "(416) 934-0235", 
+  "name": "The Indian Hut", 
+  "address": "636 Church Street"
+ }, 
+ {
+  "phone": "(647) 436-2538", 
+  "name": "The Copper Chimney", 
+  "address": "2050 Ave Rd"
+ }, 
+ {
+  "phone": "(416) 968-7111", 
+  "name": "Debu\u2019s Indian Cuisine", 
+  "address": "291 Augusta Ave"
+ }, 
+ {
+  "phone": "(416) 657-2500", 
+  "name": "Savera Indian Cuisine", 
+  "address": "815 St Clair Avemue W"
+ }, 
+ {
+  "phone": "(416) 504-3213", 
+  "name": "5th Elementt", 
+  "address": "506 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 489-4899", 
+  "name": "Kamasutra Indian Restaurant & Wine Bar", 
+  "address": "1522 Bayview Avenue"
+ }, 
+ {
+  "phone": "(647) 352-8779", 
+  "name": "Curry Kitchen", 
+  "address": "117 Dundas Street East"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 972-0505", 
+  "name": "Butter Chicken Roti", 
+  "address": "398 College Street"
+ }, 
+ {
+  "phone": "(416) 342-1906", 
+  "name": "Pukka", 
+  "address": "778 St. Clair Avenue W"
+ }, 
+ {
+  "phone": "(416) 519-4534", 
+  "name": "Cinamon Indian Bistro", 
+  "address": "1966 Queen Street E"
+ }, 
+ {
+  "phone": "(416) 778-7366", 
+  "name": "Regency Restaurant", 
+  "address": "1423 Gerrard Street E"
+ }, 
+ {
+  "phone": "(647) 748-6001", 
+  "name": "Maurya East Indian Roti", 
+  "address": "2481 Lakeshore Boulevard W"
+ }, 
+ {
+  "phone": "(416) 599-7720", 
+  "name": "Babur Restaurant", 
+  "address": "273 Queen Street W"
+ }, 
+ {
+  "phone": "(647) 748-7454", 
+  "name": "Pili Pili", 
+  "address": "1960 Lawrence Avenue E"
+ }, 
+ {
+  "phone": "(416) 924-5787", 
+  "name": "Kathmandu Restaurant", 
+  "address": "517 Yonge Street"
+ }, 
+ {
+  "phone": "(416) 483-5393", 
+  "name": "Maroli Indian Restaurant", 
+  "address": "630 Bloor Street W"
+ }, 
+ {
+  "phone": "", 
+  "name": "VEDA - Healthy Indian Takeout", 
+  "address": "569 Spadina Ave"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 924-5787", 
+  "name": "Kathmandu Restaurant", 
+  "address": "517 Yonge Street"
+ }, 
+ {
+  "phone": "(647) 349-5679", 
+  "name": "Glory Of India Roti Cuisine", 
+  "address": "1407 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 483-5393", 
+  "name": "Maroli Indian Restaurant", 
+  "address": "630 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 538-3035", 
+  "name": "Delicacy", 
+  "address": "1422 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 322-0530", 
+  "name": "Amaya the Indian Room", 
+  "address": "1701 Bayview Avenue"
+ }, 
+ {
+  "phone": "(647) 350-7684", 
+  "name": "Butter Chicken Roti", 
+  "address": "1076 Queen Street W"
+ }, 
+ {
+  "phone": "(647) 350-7876", 
+  "name": "Maja Indian Cuisine", 
+  "address": "345 Bloor Street E"
+ }, 
+ {
+  "phone": "(416) 850-2929", 
+  "name": "Tamarind - The Indian Kitchen", 
+  "address": "161 Bay Street"
+ }, 
+ {
+  "phone": "(647) 342-4359", 
+  "name": "Madras Masala", 
+  "address": "796 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 368-8048", 
+  "name": "Bombay Palace", 
+  "address": "71 Jarvis Street"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 901-8311", 
+  "name": "Roti Time", 
+  "address": "2542 St Clair Ave West"
+ }, 
+ {
+  "phone": "(647) 748-8849", 
+  "name": "Mt.Everest Restaurant", 
+  "address": "804 Eglinton Avenue E"
+ }, 
+ {
+  "phone": "(416) 322-0530", 
+  "name": "Amaya the Indian Room", 
+  "address": "1701 Bayview Avenue"
+ }, 
+ {
+  "phone": "(647) 748-8573", 
+  "name": "TKRE - The Kathi Roll Express", 
+  "address": "692 Yonge Street"
+ }, 
+ {
+  "phone": "(416) 537-8513", 
+  "name": "Annapurna Vegetarian Restaurant", 
+  "address": "1085 Bathurst St"
+ }, 
+ {
+  "phone": "(416) 531-9305", 
+  "name": "Eastern Twist", 
+  "address": "505 St Clair Ave W"
+ }, 
+ {
+  "phone": "(416) 515-1957", 
+  "name": "Suski Biryani House", 
+  "address": "15 Hayden Street"
+ }, 
+ {
+  "phone": "", 
+  "name": "Authentic Taste Of Indian Cuisine", 
+  "address": "388 Richmond Street W"
+ }, 
+ {
+  "phone": "(416) 515-8188", 
+  "name": "King Palace", 
+  "address": "820 Church Street"
+ }, 
+ {
+  "phone": "(416) 850-3179", 
+  "name": "Buffet Palace", 
+  "address": "361 Yonge Street"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 604-9465", 
+  "name": "North of Bombay", 
+  "address": "2996 Dundas St W"
+ }, 
+ {
+  "phone": "(416) 690-7406", 
+  "name": "Poonam Delite", 
+  "address": "2658 Danforth Avenue"
+ }, 
+ {
+  "phone": "(416) 406-4511", 
+  "name": "The Famous Indian Cuisine", 
+  "address": "1437 Gerrard St E"
+ }, 
+ {
+  "phone": "", 
+  "name": "Amaya Express", 
+  "address": "108 Ossington Avenue"
+ }, 
+ {
+  "phone": "(647) 342-4359", 
+  "name": "Madras Masala", 
+  "address": "796 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 787-1020", 
+  "name": "Cloves the Spice", 
+  "address": "965 Eglinton Avenue W"
+ }, 
+ {
+  "phone": "(416) 322-0020", 
+  "name": "Amaya Express", 
+  "address": "21 Davenport Rd"
+ }, 
+ {
+  "phone": "(416) 588-9877", 
+  "name": "Shala-Mar Restaurant", 
+  "address": "391 Roncesvalles Ave"
+ }, 
+ {
+  "phone": "(647) 340-5511", 
+  "name": "Spice House Indian Cuisine", 
+  "address": "587 Parliament Street"
+ }, 
+ {
+  "phone": "(416) 929-9444", 
+  "name": "The Spice Village", 
+  "address": "25 Wellesley Street E"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 469-4444", 
+  "name": "Gautama", 
+  "address": "1416 Gerrard St E"
+ }, 
+ {
+  "phone": "(416) 977-8500", 
+  "name": "Agra Fine Indian Cuisine", 
+  "address": "365 King Street W"
+ }, 
+ {
+  "phone": "(416) 591-9990", 
+  "name": "Curry Kitchen By the Grange", 
+  "address": "109 McCaul Street"
+ }, 
+ {
+  "phone": "(416) 752-2786", 
+  "name": "Masala Kitchen", 
+  "address": "1871 O'Connor Drive"
+ }, 
+ {
+  "phone": "(416) 532-8698", 
+  "name": "College Falafel", 
+  "address": "450 Ossington Ave"
+ }, 
+ {
+  "phone": "", 
+  "name": "Bhavna\u2019s Food", 
+  "address": "1422 Queen St W"
+ }, 
+ {
+  "phone": "(416) 926-0953", 
+  "name": "Kothur Indian Cuisine", 
+  "address": "649 Yonge Street"
+ }, 
+ {
+  "phone": "(647) 272-4434", 
+  "name": "Curry & Co.", 
+  "address": "10 Dundas Street E"
+ }, 
+ {
+  "phone": "(416) 465-4095", 
+  "name": "The Siddhartha", 
+  "address": "1416 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 322-0020", 
+  "name": "Amaya Express", 
+  "address": "263 King Street E"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 532-8191", 
+  "name": "Bacchus Roti Shop", 
+  "address": "1376 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 925-1939", 
+  "name": "Suruthi\u2019s Take Out & Catering", 
+  "address": "585 Parliament Street"
+ }, 
+ {
+  "phone": "(647) 349-7900", 
+  "name": "The Tiffin Box", 
+  "address": "938 Bathurst Street"
+ }, 
+ {
+  "phone": "(416) 913-8726", 
+  "name": "Tibet Kitchen", 
+  "address": "1544 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 260-6666", 
+  "name": "Indian Roti House", 
+  "address": "256 Queens Quay W"
+ }, 
+ {
+  "phone": "(416) 534-9739", 
+  "name": "The Tampered Press", 
+  "address": "256 Crawford Street"
+ }, 
+ {
+  "phone": "(416) 640-1015", 
+  "name": "Everest Hakka House", 
+  "address": "2356 Lakeshore Boulevard W"
+ }, 
+ {
+  "phone": "(416) 429-6057", 
+  "name": "Simba Grill", 
+  "address": "375 Donlands Avenue"
+ }, 
+ {
+  "phone": "(416) 466-6241", 
+  "name": "Mahar Restaurant Incorp", 
+  "address": "1410 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 599-0599", 
+  "name": "Tandoori Flavour", 
+  "address": "455 Spadina Avenue"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 253-5047", 
+  "name": "Everest Indian Cuisine", 
+  "address": "2356 Lake Shore Boulevard W"
+ }, 
+ {
+  "phone": "(416) 469-1500", 
+  "name": "Skylark Restaurant", 
+  "address": "1433 Gerrard St E"
+ }, 
+ {
+  "phone": "(416) 532-3901", 
+  "name": "OM Restaurant and Bar", 
+  "address": "1439 Queen St W"
+ }, 
+ {
+  "phone": "(416) 929-9964", 
+  "name": "The Red Room", 
+  "address": "444 Spadina Ave"
+ }, 
+ {
+  "phone": "(416) 536-4138", 
+  "name": "Himalayan Kitchen", 
+  "address": "1526 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 466-8934", 
+  "name": "Stratengers Bar & Restaurant", 
+  "address": "1130 Queen Street E"
+ }, 
+ {
+  "phone": "(416) 539-0259", 
+  "name": "African Palace", 
+  "address": "977 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 421-8898", 
+  "name": "Hakka Garden Chinese Restaurant", 
+  "address": "25 Overlea Boulevard"
+ }, 
+ {
+  "phone": "(416) 969-0220", 
+  "name": "Noah\u2019s Natural Foods", 
+  "address": "667 Yonge St"
+ }, 
+ {
+  "phone": "(416) 461-9238", 
+  "name": "Danforth Dragon Restaurant", 
+  "address": "861 Danforth Ave"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 769-5477", 
+  "name": "Indian Kiss", 
+  "address": "399 Keele St"
+ }, 
+ {
+  "phone": "(416) 901-5472", 
+  "name": "The Bristol", 
+  "address": "1087 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 760-9691", 
+  "name": "Indie Ale House", 
+  "address": "2876 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 551-5199", 
+  "name": "Bukhara Grill", 
+  "address": "2241A Bloor Street W"
+ }, 
+ {
+  "phone": "(647) 352-0786", 
+  "name": "King Place", 
+  "address": "236 Sherbourne Street"
+ }, 
+ {
+  "phone": "(416) 469-4466", 
+  "name": "Chandni Chowk Restaurant", 
+  "address": "1430 Gerrard St E"
+ }, 
+ {
+  "phone": "(416) 551-7786", 
+  "name": "Sizzler Kabab", 
+  "address": "381 Spadina Avenue"
+ }, 
+ {
+  "phone": "(416) 364-4203", 
+  "name": "Touch", 
+  "address": "1 Adelaide St E"
+ }, 
+ {
+  "phone": "(416) 466-0411", 
+  "name": "Bar-Be-Que Hut", 
+  "address": "1455 Gerrard St E"
+ }, 
+ {
+  "phone": "(416) 703-4496", 
+  "name": "New York Subway", 
+  "address": "520 Queen Street W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 322-0020", 
+  "name": "Amaya Express", 
+  "address": "1574 Bayview Ave"
+ }, 
+ {
+  "phone": "(647) 463-4626", 
+  "name": "Kal & Mooy", 
+  "address": "238 Queens Street W"
+ }, 
+ {
+  "phone": "(416) 534-0077", 
+  "name": "Queen Supermarket", 
+  "address": "1431 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 585-4352", 
+  "name": "T|Bar", 
+  "address": "33 Gerrard Street W"
+ }, 
+ {
+  "phone": "(647) 987-7684", 
+  "name": "Indian Roti House", 
+  "address": "471 Church Street"
+ }, 
+ {
+  "phone": "(416) 546-6647", 
+  "name": "Chill Grill & Cafe", 
+  "address": "2183 Danforth Avenue"
+ }, 
+ {
+  "phone": "(416) 686-8146", 
+  "name": "The Mumbai House", 
+  "address": "1698 Queen St E"
+ }, 
+ {
+  "phone": "(416) 927-8888", 
+  "name": "China Garden Restaurant", 
+  "address": "200 Bloor Street W"
+ }, 
+ {
+  "phone": "", 
+  "name": "Toronto Underground Market", 
+  "address": "550 Bayview Ave"
+ }, 
+ {
+  "phone": "(416) 850-3179", 
+  "name": "Saffron Tree Fine Indian Cuisine", 
+  "address": "361 Yonge St"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 658-7672", 
+  "name": "Tru Valu West Indian & Canadian Restaurant", 
+  "address": "1155 St Clair Avenue W"
+ }, 
+ {
+  "phone": "(416) 214-0005", 
+  "name": "Amaya Express", 
+  "address": "100 King St W"
+ }, 
+ {
+  "phone": "(647) 748-4988", 
+  "name": "Ginger Express", 
+  "address": "20 Roncesvalles Avenue"
+ }, 
+ {
+  "phone": "(416) 968-7930", 
+  "name": "Noah\u2019s Natural Foods", 
+  "address": "322 Bloor St W"
+ }, 
+ {
+  "phone": "(416) 646-0705", 
+  "name": "Rawlicious", 
+  "address": "20 Cumberland Street"
+ }, 
+ {
+  "phone": "(416) 469-9696", 
+  "name": "New Haandi 2000 Restaurant", 
+  "address": "1401 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 487-1100", 
+  "name": "Indian Bread Bar", 
+  "address": "3305 Yonge Street"
+ }, 
+ {
+  "phone": "(416) 778-0033", 
+  "name": "Tandoor", 
+  "address": "1430 Gerrard St E"
+ }, 
+ {
+  "phone": "(416) 253-5047", 
+  "name": "Everest Indian Cuisine", 
+  "address": "2356 Lake Shore Boulevard W"
+ }, 
+ {
+  "phone": "(416) 591-2352", 
+  "name": "The Bishop And Belcher", 
+  "address": "175 Bloor St E"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 261-2882", 
+  "name": "Ghareeb Nawaz", 
+  "address": "1071 Danforth Ave"
+ }, 
+ {
+  "phone": "(647) 340-0160", 
+  "name": "Masala ART", 
+  "address": "1404 Yonge St"
+ }, 
+ {
+  "phone": "(416) 760-9779", 
+  "name": "High Park Spicy House", 
+  "address": "3020 Dundas St W"
+ }, 
+ {
+  "phone": "(416) 440-1220", 
+  "name": "Cuisine of India on the Go", 
+  "address": "1992 Yonge Street"
+ }, 
+ {
+  "phone": "(416) 536-6868", 
+  "name": "Gau Indian Village", 
+  "address": "834 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 964-1616", 
+  "name": "Exotic Tandoori Restaurant", 
+  "address": "11 Charles Street W"
+ }, 
+ {
+  "phone": "(416) 968-7111", 
+  "name": "Spicy Grill Indo Pak Cuisine", 
+  "address": "291 Augusta Ave"
+ }, 
+ {
+  "phone": "", 
+  "name": "Punjabi Chaat Palace", 
+  "address": "Gerrard St E"
+ }, 
+ {
+  "phone": "(416) 538-7001", 
+  "name": "Ali Baba\u2019s Middle Eastern Cuisine", 
+  "address": "2202 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 516-5787", 
+  "name": "Victory Caf\u00e9", 
+  "address": "581 Markham St"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 883-3431", 
+  "name": "Victor", 
+  "address": "30 Mercer St"
+ }, 
+ {
+  "phone": "(416) 469-3712", 
+  "name": "BJ Supermarket", 
+  "address": "1449 Gerrard St E"
+ }, 
+ {
+  "phone": "(647) 352-0786", 
+  "name": "786 Halal Biryani House", 
+  "address": "236 Sherbourne Street"
+ }, 
+ {
+  "phone": "", 
+  "name": "Tandori", 
+  "address": "777 Bay St"
+ }, 
+ {
+  "phone": "(416) 964-8414", 
+  "name": "Bahara Cuisine House", 
+  "address": "178 Carlton Street"
+ }, 
+ {
+  "phone": "(647) 340-9027", 
+  "name": "Tantra Lounge - Bar & Grill", 
+  "address": "1157 Street Clair Avenue W"
+ }, 
+ {
+  "phone": "(416) 652-2211", 
+  "name": "Mitchie\u2019s Eatery", 
+  "address": "1745 Street Clair Avenue W"
+ }, 
+ {
+  "phone": "(416) 461-8914", 
+  "name": "India Paan", 
+  "address": "1427 Gerrard St E"
+ }, 
+ {
+  "phone": "(416) 686-8146", 
+  "name": "Real Taste of India", 
+  "address": "1698 Queen Street E"
+ }, 
+ {
+  "phone": "(416) 469-1500", 
+  "name": "Nitya Restaurant", 
+  "address": "1433 Gerrard St E"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 463-9868", 
+  "name": "Liberty Paan Corner", 
+  "address": "1430 Gerrard Street E"
+ }, 
+ {
+  "phone": "(647) 342-4901", 
+  "name": "Rajput\u2019s Bistro", 
+  "address": "642 Bloor Street W"
+ }, 
+ {
+  "phone": "", 
+  "name": "Amaya Express", 
+  "address": "Yorkdale Shopping Mall"
+ }, 
+ {
+  "phone": "(416) 580-9311", 
+  "name": "Tandori", 
+  "address": "2 Bloor Street E"
+ }, 
+ {
+  "phone": "(416) 929-2800", 
+  "name": "Vivah Restaurant", 
+  "address": "1560 Yonge Street"
+ }, 
+ {
+  "phone": "(416) 780-0752", 
+  "name": "Mainsha Restaurant", 
+  "address": "1561 Eglinton Avenue W"
+ }, 
+ {
+  "phone": "(416) 368-1300", 
+  "name": "Betty\u2019s", 
+  "address": "240 King Street E"
+ }, 
+ {
+  "phone": "(416) 551-9890", 
+  "name": "Moksha Restaurant", 
+  "address": "3022 Bathurst Street"
+ }, 
+ {
+  "phone": "(416) 944-9731", 
+  "name": "Tamarind Restaurant", 
+  "address": "545 Yonge St"
+ }, 
+ {
+  "phone": "(416) 533-5472", 
+  "name": "Naans & More", 
+  "address": "795 Bathurst St"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(647) 352-7111", 
+  "name": "Laziz Biryani & Kabab", 
+  "address": "292 Wellesley Street E"
+ }, 
+ {
+  "phone": "(416) 504-3213", 
+  "name": "IndiRoll", 
+  "address": "506 Queen Street W"
+ }, 
+ {
+  "phone": "(647) 692-5868", 
+  "name": "Spice Heaven", 
+  "address": "1475 Danforth Avenue"
+ }, 
+ {
+  "phone": "(416) 977-8500", 
+  "name": "Agra Fine Indian Cuisine", 
+  "address": "365 King Street West"
+ }, 
+ {
+  "phone": "(647) 748-0220", 
+  "name": "Marigoldbistro", 
+  "address": "552 Mount Pleasant Road"
+ }, 
+ {
+  "phone": "(416) 467-6060", 
+  "name": "Capital Sweet And Samosa", 
+  "address": "62 Overlea Blvd"
+ }, 
+ {
+  "phone": "", 
+  "name": "Amaya", 
+  "address": "200 Simcoe Place"
+ }, 
+ {
+  "phone": "(647) 748-1113", 
+  "name": "Sutra Indian Asian Fusion", 
+  "address": "133 Roncesvalles Ave"
+ }, 
+ {
+  "phone": "(416) 368-7272", 
+  "name": "Jaipur Grill", 
+  "address": "208 Queen's Quay"
+ }, 
+ {
+  "phone": "(647) 349-8424", 
+  "name": "Tich Modern Indian Cuisine", 
+  "address": "2314 Lakeshore Boulevard W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 253-5047", 
+  "name": "Kothur Indian Cuisine", 
+  "address": "2403 LakeShore Blvd West"
+ }, 
+ {
+  "phone": "(416) 537-4417", 
+  "name": "Ghazale Restaurant", 
+  "address": "504 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 466-6700", 
+  "name": "Chicken Way", 
+  "address": "1028 Danforth Ave"
+ }, 
+ {
+  "phone": "", 
+  "name": "India Kitchen", 
+  "address": "988 Danforth Ave"
+ }, 
+ {
+  "phone": "", 
+  "name": "G\u2019s Fine Foods", 
+  "address": "351 Bloor St W"
+ }, 
+ {
+  "phone": "(416) 539-0555", 
+  "name": "Magic Oven", 
+  "address": "127 Jefferson Avenue"
+ }, 
+ {
+  "phone": "(647) 428-7119", 
+  "name": "Apalla", 
+  "address": "1433 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 466-4040", 
+  "name": "Tikka House", 
+  "address": "1455 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 646-0928", 
+  "name": "Mr Maharraja Indian Cuisine", 
+  "address": "750 Yonge Street"
+ }, 
+ {
+  "phone": "(416) 519-4510", 
+  "name": "Taste Of Tandooree And Sweets", 
+  "address": "1330 Gerrard Street E"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 979-1665", 
+  "name": "Ashoka Fine Indian Cuisine", 
+  "address": "209 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 340-1254", 
+  "name": "Indian Biriyani House", 
+  "address": "181 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 242-8808", 
+  "name": "Hakka No. 1", 
+  "address": "2355 Keele Street"
+ }, 
+ {
+  "phone": "(416) 408-2799", 
+  "name": "Indian Flavour", 
+  "address": "595 Bay Street"
+ }, 
+ {
+  "phone": "(416) 963-9360", 
+  "name": "Rao & Rao Trading", 
+  "address": "796 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 487-1100", 
+  "name": "Indian Haute Cuisine", 
+  "address": "3305 Yonge Street"
+ }, 
+ {
+  "phone": "(647) 696-9460", 
+  "name": "Millix", 
+  "address": "Dundas Square"
+ }, 
+ {
+  "phone": "(416) 260-5596", 
+  "name": "India House", 
+  "address": "238 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 925-4074", 
+  "name": "The House On Parliament", 
+  "address": "454 Parliament Street"
+ }, 
+ {
+  "phone": "", 
+  "name": "Masala Pantry", 
+  "address": "877 Queen St W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 925-4074", 
+  "name": "The House On Parliament", 
+  "address": "454 Parliament Street"
+ }, 
+ {
+  "phone": "", 
+  "name": "Masala Pantry", 
+  "address": "877 Queen St W"
+ }, 
+ {
+  "phone": "(416) 703-6684", 
+  "name": "Sidhartha Fine Indian Cuisine", 
+  "address": "647 King Street W"
+ }, 
+ {
+  "phone": "(416) 425-7866", 
+  "name": "Iqbal Kebab & Sweet Centre", 
+  "address": "2 Thorncliffe Park Drive"
+ }, 
+ {
+  "phone": "(416) 368-8362", 
+  "name": "The People West Indian", 
+  "address": "119 River Street"
+ }, 
+ {
+  "phone": "(647) 748-9339", 
+  "name": "Earth Indian Express", 
+  "address": "243 Eglinton Avenue W"
+ }, 
+ {
+  "phone": "(416) 485-3377", 
+  "name": "Indian Garden", 
+  "address": "32 Eglinton Avenue W"
+ }, 
+ {
+  "phone": "(416) 539-9821", 
+  "name": "Hot Grill Tandoori Restaurant", 
+  "address": "1196 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 423-8100", 
+  "name": "Shirin Mahal Bakery & Sweets", 
+  "address": "2 Thorncliffe Park Dr"
+ }, 
+ {
+  "phone": "(416) 920-9927", 
+  "name": "Magnolia Fine Foods", 
+  "address": "548 College St"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 655-7142", 
+  "name": "Stella", 
+  "address": "1261 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 932-1100", 
+  "name": "Marcheleo\u2019s Gourmet Marketplace", 
+  "address": "181 Eglinton Ave E"
+ }, 
+ {
+  "phone": "(647) 713-7333", 
+  "name": "Samosa", 
+  "address": "Merton Street"
+ }, 
+ {
+  "phone": "(416) 537-7750", 
+  "name": "Butler\u2019s Pantry", 
+  "address": "371 Roncesvalles Avenue"
+ }, 
+ {
+  "phone": "(416) 759-4920", 
+  "name": "Patna Kabab House", 
+  "address": "1885 Lawrence Avenue E"
+ }, 
+ {
+  "phone": "(647) 872-9979", 
+  "name": "Truly India", 
+  "address": "979 O'Connor Drive"
+ }, 
+ {
+  "phone": "(416) 531-9401", 
+  "name": "Ropein West Indian Take Out", 
+  "address": "2883 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 968-2828", 
+  "name": "Hemingway\u2019s Restaurant", 
+  "address": "142 Cumberland St"
+ }, 
+ {
+  "phone": "(416) 406-5188", 
+  "name": "Pabla Shan-E-Punjab Restaurant", 
+  "address": "1386 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 786-1041", 
+  "name": "Ali Baba\u2019s Middle Eastern Cuisine", 
+  "address": "768 Dundas St W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 941-1474", 
+  "name": "Mystic Muffin", 
+  "address": "113 Jarvis Street"
+ }, 
+ {
+  "phone": "(416) 536-2932", 
+  "name": "Evergreen Natural Foods", 
+  "address": "513 St Clair Avenue W"
+ }, 
+ {
+  "phone": "(416) 964-9993", 
+  "name": "Ali Baba\u2019s Middle Eastern Cuisine", 
+  "address": "24 Wellesley St W"
+ }, 
+ {
+  "phone": "(416) 538-7001", 
+  "name": "Ali Baba\u2019s Middle Eastern Cuisine", 
+  "address": "197 Dundas Street W"
+ }, 
+ {
+  "phone": "", 
+  "name": "Kanga", 
+  "address": "1181 Victoria Park Avenue"
+ }, 
+ {
+  "phone": "", 
+  "name": "Bombay Hut", 
+  "address": "Avenue Road"
+ }, 
+ {
+  "phone": "", 
+  "name": "Habibi Shawarma", 
+  "address": "1206 King St"
+ }, 
+ {
+  "phone": "(416) 449-0404", 
+  "name": "Patio Indian Restaurant", 
+  "address": "15 Gervais Drive"
+ }, 
+ {
+  "phone": "(416) 535-9868", 
+  "name": "Butler\u2019s Pantry", 
+  "address": "591 Markham Street"
+ }, 
+ {
+  "phone": "(416) 533-8838", 
+  "name": "Blue Bay Cafe", 
+  "address": "2243 Dundas St W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 533-8838", 
+  "name": "Blue Bay Cafe", 
+  "address": "2243 Dundas St W"
+ }, 
+ {
+  "phone": "(416) 340-0303", 
+  "name": "Valens Restaurant", 
+  "address": "19 Baldwin Street"
+ }, 
+ {
+  "phone": "(416) 588-5250", 
+  "name": "Arora Foods Market", 
+  "address": "922 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 922-4417", 
+  "name": "Ghazale", 
+  "address": "78 Wellesley St"
+ }, 
+ {
+  "phone": "(416) 977-6969", 
+  "name": "Everest Cafe & Bar", 
+  "address": "232 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 922-5767", 
+  "name": "Harbord Bakery", 
+  "address": "115 Harbord Street"
+ }, 
+ {
+  "phone": "(416) 534-7751", 
+  "name": "Utopia Caf\u00e9 & Grill", 
+  "address": "586 College St"
+ }, 
+ {
+  "phone": "(416) 777-2343", 
+  "name": "Sadie\u2019s Diner & Juice Bar", 
+  "address": "504 Adelaide Street W"
+ }, 
+ {
+  "phone": "(416) 657-0108", 
+  "name": "Tinnel\u2019s West Indian Take-Out", 
+  "address": "2517 Eglinton Avenue W"
+ }, 
+ {
+  "phone": "(416) 595-0327", 
+  "name": "Moonbean Coffee", 
+  "address": "30 St Andrew Street"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 755-7900", 
+  "name": "Rising Star West Indian Restaurant", 
+  "address": "430 Dawes Road"
+ }, 
+ {
+  "phone": "(416) 921-8112", 
+  "name": "Dinah\u2019s Cupboard", 
+  "address": "50 Cumberland Street"
+ }, 
+ {
+  "phone": "(416) 777-2343", 
+  "name": "Sadie\u2019s Diner & Juice Bar", 
+  "address": "504 Adelaide Street W"
+ }, 
+ {
+  "phone": "(416) 696-9855", 
+  "name": "Yvonne Bakery", 
+  "address": "45 Overlea Blvd"
+ }, 
+ {
+  "phone": "(416) 603-3337", 
+  "name": "Greens Vegetarian Restaurant", 
+  "address": "638 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 922-4417", 
+  "name": "Ghazale", 
+  "address": "78 Wellesley St"
+ }, 
+ {
+  "phone": "(416) 364-6183", 
+  "name": "Hibiscus", 
+  "address": "238 Augusta Avenue"
+ }, 
+ {
+  "phone": "(647) 340-4663", 
+  "name": "The Goods", 
+  "address": "1255 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 504-1233", 
+  "name": "Kupfert & Kim", 
+  "address": "100 King Street West"
+ }, 
+ {
+  "phone": "(647) 340-3666", 
+  "name": "Grasshopper Restaurant", 
+  "address": "310 College Street"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 504-2870", 
+  "name": "Dufflet Pastries", 
+  "address": "787 Queen St W"
+ }, 
+ {
+  "phone": "(647) 268-3327", 
+  "name": "Walima Cafe", 
+  "address": "1943 Avenue Road"
+ }, 
+ {
+  "phone": "(416) 288-0303", 
+  "name": "New Devi Foods", 
+  "address": "1877 Lawrence Ave E"
+ }, 
+ {
+  "phone": "", 
+  "name": "Sideshow Caf\u00e9", 
+  "address": "1300 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 921-8112", 
+  "name": "Dinah\u2019s Cupboard", 
+  "address": "50 Cumberland Street"
+ }, 
+ {
+  "phone": "(416) 484-9080", 
+  "name": "Dufflet Pastries", 
+  "address": "2638 Yonge St"
+ }, 
+ {
+  "phone": "(416) 751-2278", 
+  "name": "Peek Freans Outlet Store", 
+  "address": "1400 O'Connor Drive"
+ }, 
+ {
+  "phone": "(416) 322-0723", 
+  "name": "Granite Brewery & Restaurant", 
+  "address": "245 Eglinton Avenue E"
+ }, 
+ {
+  "phone": "(416) 762-3036", 
+  "name": "Hot Oven Bakery", 
+  "address": "2226 Bloor St W"
+ }, 
+ {
+  "phone": "(416) 977-5463", 
+  "name": "Rabba Fine Foods", 
+  "address": "126 Simcoe Street"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(647) 350-8573", 
+  "name": "The Kathi Roll Express", 
+  "address": "1753 Avenue Road"
+ }, 
+ {
+  "phone": "(416) 260-8869", 
+  "name": "Rabba Fine Foods Stores", 
+  "address": "252 Queens Quay W"
+ }, 
+ {
+  "phone": "(416) 469-2897", 
+  "name": "Loblaws", 
+  "address": "17 Leslie Street"
+ }, 
+ {
+  "phone": "(416) 863-6006", 
+  "name": "George", 
+  "address": "111 Queen St E"
+ }, 
+ {
+  "phone": "(416) 534-7441", 
+  "name": "Ghazale", 
+  "address": "661 College St"
+ }, 
+ {
+  "phone": "(416) 425-6685", 
+  "name": "Raj Kapuri Paan & Snacks", 
+  "address": "377 Donlands Ave"
+ }, 
+ {
+  "phone": "(416) 504-5127", 
+  "name": "Grasslands", 
+  "address": "478 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 690-1228", 
+  "name": "Meat On the Beach", 
+  "address": "1860 Queen Street E"
+ }, 
+ {
+  "phone": "", 
+  "name": "Tasty Thursdays", 
+  "address": "100 Queen St W"
+ }, 
+ {
+  "phone": "(416) 975-9986", 
+  "name": "Sarah\u2019s Shawarma & Falafel", 
+  "address": "487 Bloor Street W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 340-0303", 
+  "name": "Valens Restaurant", 
+  "address": "19 Baldwin Street"
+ }, 
+ {
+  "phone": "(416) 913-2720", 
+  "name": "Fresh", 
+  "address": "894 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 260-8869", 
+  "name": "Rabba Fine Foods Stores", 
+  "address": "252 Queens Quay W"
+ }, 
+ {
+  "phone": "(416) 534-9056", 
+  "name": "The Grapefruit Moon", 
+  "address": "968 Bathurst Street"
+ }, 
+ {
+  "phone": "(416) 595-0327", 
+  "name": "Moonbean Coffee", 
+  "address": "30 St Andrew Street"
+ }, 
+ {
+  "phone": "", 
+  "name": "Lipstick & Dynamite", 
+  "address": "992 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 483-3747", 
+  "name": "Tabule Restaurant", 
+  "address": "2009 Yonge Street"
+ }, 
+ {
+  "phone": "(647) 342-6307", 
+  "name": "Woodlot Bakery & Restaurant", 
+  "address": "293 Palmerston Avenue"
+ }, 
+ {
+  "phone": "(416) 588-2873", 
+  "name": "Smoke\u2019s Poutinerie", 
+  "address": "490 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 531-2635", 
+  "name": "Fresh", 
+  "address": "326 Bloor Street W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 601-9163", 
+  "name": "The Instant Caterer", 
+  "address": "93 Front St E"
+ }, 
+ {
+  "phone": "(416) 703-3555", 
+  "name": "Magic Oven", 
+  "address": "360 Queen Street East"
+ }, 
+ {
+  "phone": "(416) 363-3400", 
+  "name": "Jump Restaurant", 
+  "address": "18 Wellington Street W"
+ }, 
+ {
+  "phone": "(416) 971-6626", 
+  "name": "The Red Tomato", 
+  "address": "321 King St W"
+ }, 
+ {
+  "phone": "(416) 538-7500", 
+  "name": "La Cubana", 
+  "address": "392 Roncesvalles Avenue"
+ }, 
+ {
+  "phone": "(416) 504-7867", 
+  "name": "Lee", 
+  "address": "601 King Street W"
+ }, 
+ {
+  "phone": "(416) 778-9907", 
+  "name": "The Pastry House", 
+  "address": "716 Queen St E"
+ }, 
+ {
+  "phone": "(416) 603-8009", 
+  "name": "Origin", 
+  "address": "109 King Street E"
+ }, 
+ {
+  "phone": "(416) 597-8142", 
+  "name": "Azure Restaurant and Bar", 
+  "address": "225 Front Street W"
+ }, 
+ {
+  "phone": "", 
+  "name": "Dumpling King", 
+  "address": "436 Dundas Street W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "", 
+  "name": "Barburrito", 
+  "address": "544 Yonge St"
+ }, 
+ {
+  "phone": "", 
+  "name": "S Market", 
+  "address": "1269 College St"
+ }, 
+ {
+  "phone": "(416) 693-8424", 
+  "name": "Thai Room", 
+  "address": "2063 Danforth Avenue"
+ }, 
+ {
+  "phone": "(416) 979-7825", 
+  "name": "Wayne Gretzky\u2019s Toronto", 
+  "address": "99 Blue Jays Way"
+ }, 
+ {
+  "phone": "(416) 755-7900", 
+  "name": "Rising Star West Indian Restaurant", 
+  "address": "430 Dawes Road"
+ }, 
+ {
+  "phone": "(416) 263-3600", 
+  "name": "Toronto Star Food Building", 
+  "address": "200 Princes' Blvd"
+ }, 
+ {
+  "phone": "(416) 926-0000", 
+  "name": "J Pizza Plus", 
+  "address": "314 Parliament St"
+ }, 
+ {
+  "phone": "", 
+  "name": "Pita Way", 
+  "address": "1214 King St W"
+ }, 
+ {
+  "phone": "(647) 348-7744", 
+  "name": "Church Bistro", 
+  "address": "555 Church Street"
+ }, 
+ {
+  "phone": "(416) 901-9000", 
+  "name": "Popeyes Chicken", 
+  "address": "589 Yonge Street"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 531-1888", 
+  "name": "Thai Room Liberty Village", 
+  "address": "171 E Liberty Street"
+ }, 
+ {
+  "phone": "(416) 901-9000", 
+  "name": "Popeyes Chicken", 
+  "address": "589 Yonge Street"
+ }, 
+ {
+  "phone": "", 
+  "name": "Ali Baba\u2019s Middle Eastern Food", 
+  "address": "715 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 915-3394", 
+  "name": "Pita Pure House", 
+  "address": "717 Bay St"
+ }, 
+ {
+  "phone": "(416) 486-2244", 
+  "name": "Grill Hut", 
+  "address": "1921 Yonge Street"
+ }, 
+ {
+  "phone": "(416) 364-6183", 
+  "name": "Hibiscus", 
+  "address": "238 Augusta Avenue"
+ }, 
+ {
+  "phone": "(416) 780-0400", 
+  "name": "Spring China House", 
+  "address": "961 Eglinton Avenue W"
+ }, 
+ {
+  "phone": "(416) 425-6685", 
+  "name": "Rajkapuri\u2019s Paan & Snacks", 
+  "address": "377 Donlands Ave"
+ }, 
+ {
+  "phone": "(416) 644-1412", 
+  "name": "Sultan of Samosas", 
+  "address": "251 Bartley Dr"
+ }, 
+ {
+  "phone": "(416) 535-5683", 
+  "name": "One Love Vegetarian", 
+  "address": "854 Bathurst Street"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 621-3636", 
+  "name": "Vegetarian Haven", 
+  "address": "17 Baldwin Street"
+ }, 
+ {
+  "phone": "(416) 591-0863", 
+  "name": "Karine\u2019s", 
+  "address": "109 McCaul Street"
+ }, 
+ {
+  "phone": "(647) 342-6307", 
+  "name": "Woodlot Bakery & Restaurant", 
+  "address": "293 Palmerston Avenue"
+ }, 
+ {
+  "phone": "(416) 531-2635", 
+  "name": "Fresh", 
+  "address": "326 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 504-1233", 
+  "name": "Kupfert & Kim", 
+  "address": "100 King Street West"
+ }, 
+ {
+  "phone": "(416) 603-3337", 
+  "name": "Greens Vegetarian Restaurant", 
+  "address": "638 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 599-4442", 
+  "name": "Fresh", 
+  "address": "147 Spadina Avenue"
+ }, 
+ {
+  "phone": "(416) 483-3747", 
+  "name": "Tabule Restaurant", 
+  "address": "2009 Yonge Street"
+ }, 
+ {
+  "phone": "(416) 535-0797", 
+  "name": "Nazareth Restaurant", 
+  "address": "969 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 915-7225", 
+  "name": "Pero Restaurant & Lounge", 
+  "address": "812 Bloor Street W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(647) 827-9656", 
+  "name": "Superfood Eateries", 
+  "address": "268 Adelaide Street W"
+ }, 
+ {
+  "phone": "(416) 922-9922", 
+  "name": "Pizzaiolo", 
+  "address": "346 Bloor Street W"
+ }, 
+ {
+  "phone": "(647) 340-3666", 
+  "name": "Grasshopper Restaurant", 
+  "address": "310 College Street"
+ }, 
+ {
+  "phone": "(416) 913-2720", 
+  "name": "Fresh", 
+  "address": "894 Queen Street W"
+ }, 
+ {
+  "phone": "(416) 591-1340", 
+  "name": "King\u2019s Caf\u00e9", 
+  "address": "192 Augusta Avenue"
+ }, 
+ {
+  "phone": "(416) 534-9056", 
+  "name": "The Grapefruit Moon", 
+  "address": "968 Bathurst Street"
+ }, 
+ {
+  "phone": "(416) 967-1078", 
+  "name": "Free Times Cafe", 
+  "address": "320 College Street"
+ }, 
+ {
+  "phone": "(416) 778-1388", 
+  "name": "Jean\u2019s Vegetarian Kitchen", 
+  "address": "1262 Danforth Ave"
+ }, 
+ {
+  "phone": "(647) 351-0423", 
+  "name": "E L Ruddy Co Cafe", 
+  "address": "1371 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 603-3811", 
+  "name": "Buddha\u2019s Vegetarian Foods", 
+  "address": "666 Dundas Street W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(647) 352-7792", 
+  "name": "iQ Food Co.", 
+  "address": "100 Wellington St W"
+ }, 
+ {
+  "phone": "(416) 444-6262", 
+  "name": "McEwan Gourmet Grocery Store", 
+  "address": "38 Karl Fraser Rd"
+ }, 
+ {
+  "phone": "(416) 406-0534", 
+  "name": "Lucy Ethiopian Kitchen", 
+  "address": "1690 Danforth Avenue"
+ }, 
+ {
+  "phone": "(647) 340-4663", 
+  "name": "The Goods", 
+  "address": "1255 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 588-2873", 
+  "name": "Smoke\u2019s Poutinerie", 
+  "address": "490 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 916-2368", 
+  "name": "The Beet", 
+  "address": "2945 Dundas Street W"
+ }, 
+ {
+  "phone": "(647) 430-5323", 
+  "name": "The Cereal Bar", 
+  "address": "Commerce Court Food Center"
+ }, 
+ {
+  "phone": "(416) 778-9836", 
+  "name": "Simon\u2019s Wok", 
+  "address": "797 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 645-0117", 
+  "name": "YamChops", 
+  "address": "705 College Street"
+ }, 
+ {
+  "phone": "", 
+  "name": "Lipstick & Dynamite", 
+  "address": "992 Queen Street W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 519-7150", 
+  "name": "Rawlicious", 
+  "address": "2122 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 778-9199", 
+  "name": "Green Earth Vegetarian Cuisine", 
+  "address": "385 Broadview Avenue"
+ }, 
+ {
+  "phone": "(416) 762-5239", 
+  "name": "Lunch Box", 
+  "address": "1731 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 703-0668", 
+  "name": "Cafe 668", 
+  "address": "885 Dundas St W"
+ }, 
+ {
+  "phone": "(416) 368-0100", 
+  "name": "Naturally Yours Health Food and Vegetarian Gourmet", 
+  "address": "100 King St W"
+ }, 
+ {
+  "phone": "(877) 798-1433", 
+  "name": "Govinda\u2019s", 
+  "address": "243 Avenue Road"
+ }, 
+ {
+  "phone": "(416) 929-7575", 
+  "name": "The Garage Sandwich Company", 
+  "address": "497 Church Street"
+ }, 
+ {
+  "phone": "(416) 340-6363", 
+  "name": "Freshii", 
+  "address": "23 College St"
+ }, 
+ {
+  "phone": "(416) 598-4441", 
+  "name": "Freshii", 
+  "address": "220 Yonge St"
+ }, 
+ {
+  "phone": "(647) 340-6892", 
+  "name": "iQ Food", 
+  "address": "18 York Street"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 533-2221", 
+  "name": "The Thai Cuisine", 
+  "address": "1675 Bloor St W"
+ }, 
+ {
+  "phone": "(416) 963-8624", 
+  "name": "Sunny Cafe", 
+  "address": "322 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 979-5250", 
+  "name": "Oakham House", 
+  "address": "63 Gould Street"
+ }, 
+ {
+  "phone": "(416) 922-8822", 
+  "name": "Revitasize", 
+  "address": "70 Yorkville Avenue"
+ }, 
+ {
+  "phone": "(416) 761-9222", 
+  "name": "Villa Restaurant", 
+  "address": "2277 Bloor Street W"
+ }, 
+ {
+  "phone": "(416) 752-3366", 
+  "name": "Surati Sweet Mart", 
+  "address": "26 Carnforth Road"
+ }, 
+ {
+  "phone": "(416) 255-3663", 
+  "name": "Rabba Fine Foods Stores", 
+  "address": "2230 Lake Shore Blvd W"
+ }, 
+ {
+  "phone": "(416) 238-2628", 
+  "name": "Crave Healthy Habits", 
+  "address": "145 King Street W"
+ }, 
+ {
+  "phone": "(416) 363-2971", 
+  "name": "Fit For Life", 
+  "address": "199 Bay St"
+ }, 
+ {
+  "phone": "(416) 368-5745", 
+  "name": "Fit For Life", 
+  "address": "161 Bay St"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(647) 350-7797", 
+  "name": "Freshii", 
+  "address": "77 Wellesley Street E"
+ }, 
+ {
+  "phone": "(416) 703-1247", 
+  "name": "Bo De Duyen", 
+  "address": "2219 Dundas Street W"
+ }, 
+ {
+  "phone": "(647) 344-5017", 
+  "name": "Freshii", 
+  "address": "92 King St E"
+ }, 
+ {
+  "phone": "(416) 465-6021", 
+  "name": "The Social Gardener", 
+  "address": "1326 Gerrard Street  E"
+ }, 
+ {
+  "phone": "(647) 350-2001", 
+  "name": "Freshii", 
+  "address": "1055 Yonge Street"
+ }, 
+ {
+  "phone": "(416) 925-5617", 
+  "name": "Lettuce Eatery", 
+  "address": "53 Bloor St E"
+ }, 
+ {
+  "phone": "(416) 841-6673", 
+  "name": "Veghed", 
+  "address": "1199 Dundas Street W"
+ }, 
+ {
+  "phone": "(416) 855-3322", 
+  "name": "Crave Healthy Habits", 
+  "address": "120 Adelaide Street W"
+ }, 
+ {
+  "phone": "(647) 349-3891", 
+  "name": "Freshii", 
+  "address": "700 King Street W"
+ }, 
+ {
+  "phone": "(416) 601-1333", 
+  "name": "Kupfert & Kim Brookfield", 
+  "address": "181 Bay Street"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 792-8418", 
+  "name": "Freshii", 
+  "address": "65 Queen Street W"
+ }, 
+ {
+  "phone": "(647) 344-5017", 
+  "name": "Lettuce Eatery", 
+  "address": "92 King St E"
+ }, 
+ {
+  "phone": "(647) 748-5655", 
+  "name": "Blossoms Fresh Fruit Arrangements", 
+  "address": "928 Pape Avenue"
+ }, 
+ {
+  "phone": "(416) 752-4700", 
+  "name": "Oasis Restaurant & Cafe", 
+  "address": "1961 Lawrence Avenue E"
+ }, 
+ {
+  "phone": "(416) 778-9785", 
+  "name": "Lahore Grill & Fast Food", 
+  "address": "1274 Gerrard St E"
+ }, 
+ {
+  "phone": "(416) 466-0434", 
+  "name": "Narulas Pure Vegetarian", 
+  "address": "1438 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 913-4444", 
+  "name": "Cafe Moi", 
+  "address": "1200 Bay Street"
+ }, 
+ {
+  "phone": "(416) 964-9816", 
+  "name": "Fit For Life", 
+  "address": "2 Bloor St W"
+ }, 
+ {
+  "phone": "(416) 901-4455", 
+  "name": "Freshii", 
+  "address": "1853 Avenue Road"
+ }, 
+ {
+  "phone": "(416) 351-1144", 
+  "name": "Fit For Life", 
+  "address": "200 Front St W"
+ }, 
+ {
+  "phone": "(905) 533-8636", 
+  "name": "Bon a Pita Shawarma & Grillhouse", 
+  "address": "14 Parr Boulevard"
+ }, 
+ {
+  "phone": "(416) 907-8711", 
+  "name": "Mr Ciao", 
+  "address": "598 Gerrard St E"
+ }, 
+ {
+  "phone": "(416) 423-4445", 
+  "name": "Kabul - Tehran Resturant", 
+  "address": "747 Don Mills Road"
+ }, 
+ {
+  "phone": "(416) 466-9777", 
+  "name": "Kissan Pure Vegetarian", 
+  "address": "1411 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 645-5380", 
+  "name": "Cafe Melektaus", 
+  "address": "1088 Bathurst St"
+ }, 
+ {
+  "phone": "(416) 778-9785", 
+  "name": "Lahore Grill & Fast Food", 
+  "address": "1274 Gerrard Street E"
+ }, 
+ {
+  "phone": "(416) 456-2480", 
+  "name": "Nutralicious Kitchen", 
+  "address": "1938 Danforth Avenue"
+ }, 
+ {
+  "phone": "(416) 466-4040", 
+  "name": "Gujran Wala Tikka House", 
+  "address": "1455 Gerrard Street,E."
+ }, 
+ {
+  "phone": "(416) 696-7535", 
+  "name": "Shaheen Tikka & Kabab House", 
+  "address": "747 Don Mills Rd"
+ }, 
+ {
+  "phone": "(416) 784-1466", 
+  "name": "Strictly Ital Rastaurant", 
+  "address": "1720 Eglinton Ave W"
  }
 ]
